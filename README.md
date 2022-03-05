@@ -31,7 +31,7 @@ Podfile是干什么的，怎么用？
     project 'VaporPractice.xcodeproj'
     
     target 'VaporPractice' do
-      # Comment the next line if you don't want to use dynamic frameworks
+      \# Comment the next line if you don't want to use dynamic frameworks
       use_frameworks!
 
       \# Pods for VaporPractice

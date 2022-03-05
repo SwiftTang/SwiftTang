@@ -7,8 +7,9 @@
 
 ### 基础
 #### Podfile
-Podfile是干什么的，怎么用？
-看Viperit的示例：
+*Podfile是干什么的?*
+*怎么用？*
+下面以，Viperit为例，看如何添加库：
 
     source 'https://github.com/CocoaPods/Specs.git' 
     platform :ios, '12.0' 

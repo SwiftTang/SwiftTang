@@ -7,4 +7,4 @@ git clone "https://github.com/CocoaPods/Specs" master --depth 1
 ```
 2. 在Podfile中去掉：
       ` #source 'https://github.com/CocoaPods/Specs.git' `
-3. Running ` pod install `
+3. 重新执行： ` pod install `

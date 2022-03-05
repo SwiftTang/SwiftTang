@@ -24,25 +24,25 @@
 3. 使用 `POD init` 创建podfile文件 
 4. 打开Podfile，添加项目及库信息
 
-     \# Uncomment the next line to define a global platform for your project
-     \# platform :ios, '9.0'
+        \# Uncomment the next line to define a global platform for your project
+        \# platform :ios, '9.0'
     
-     \# 1. 添加.xcodeproj文件，如下：
-     project 'VaporPractice.xcodeproj'
+        \# 1. 添加.xcodeproj文件，如下：
+        project 'VaporPractice.xcodeproj'
      
-     target 'VaporPractice' do
+        target 'VaporPractice' do
        \# Comment the next line if you don't want to use dynamic frameworks
        use_frameworks!
  
        \# Pods for VaporPractice
     
-    \# 2. 添加库文件
-    source 'https://github.com/CocoaPods/Specs.git'
-    platform :ios, '12.0'
-    use_frameworks!
-
-    pod 'Viperit'
+        \# 2. 添加库文件
+        source 'https://github.com/CocoaPods/Specs.git'
+        platform :ios, '12.0'
+     use_frameworks!
     
-    end
+        pod 'Viperit'
+        
+        end
 5. 在终端执行 `pop install` 加载库
 

@@ -17,6 +17,7 @@ Podfile是干什么的，怎么用？
     pod 'Viperit' 
 
 ##### 问题来了，怎么建这个文件，怎么添加这些内容呢？
+完成如下步骤后，用XCODE打开项目文件即可使用。
 1. 打开MAC应用程序： 终端
 2. 进入项目文件夹，如：
     cd ~\xcode\practice\Sample

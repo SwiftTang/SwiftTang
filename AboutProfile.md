@@ -1,7 +1,7 @@
-#### Podfile
-*Podfile是干什么的?*
-*怎么用？*
-下面以，Viperit为例，看如何添加库：
+
+## Podfile是干什么的,怎么用? ##
+
+CocoaPods是最常见的添加库的方法，下面以Viperit为例，看如何添加库到一个具体项目：
 
     source 'https://github.com/CocoaPods/Specs.git' 
     platform :ios, '12.0' 

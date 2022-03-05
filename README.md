@@ -22,8 +22,7 @@
 1. 打开MAC应用程序： 终端
 2. 进入项目文件夹，如：
     cd ~\xcode\practice\Sample
-3. 使用POD init创建podfile文件 
-    pod init
+3. 使用.   POD init 创建podfile文件 
 4. 打开Podfile，添加项目及库信息
 
     \# Uncomment the next line to define a global platform for your project
@@ -46,6 +45,5 @@
     pod 'Viperit'
     
     end
- 4. 在终端执行pop install加载库
-    
-    pod install
+5. 在终端执行    pop install 加载库
+

@@ -39,7 +39,7 @@
         \# 2. 添加库文件
         source 'https://github.com/CocoaPods/Specs.git'
         platform :ios, '12.0'
-     use_frameworks!
+        use_frameworks!
     
         pod 'Viperit'
         

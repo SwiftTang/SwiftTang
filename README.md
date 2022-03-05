@@ -4,8 +4,15 @@
 - 欢迎大家使用和建议，谢谢。
 未来我将在GITHUB,就我在学习过程中所面临的问题，以及我的解决办法，以最简洁明了方式分享出来，希望对您有用。
 
+### 洞察
+> 发现问题、创造价值
 
-### 基础
+### 认知
+> 如何提升能力
+
+
+### 底蕴
+> AI
 
 #### [什么是Podfile，怎么用？](AboutProfile.md)
 #### [pod install 问题解决办法](https://github.com/SwiftTang/SwiftTang/blob/main/PodPoblem.md)

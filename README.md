@@ -14,7 +14,7 @@
 ### 底蕴
 > 用强化机器学习进行投资
 
-[认知CoreML](CoreML.md)
+[认知CoreML](https://github.com/SwiftTang/SwiftDemos/blob/55e90b202a55c0b990f3fd20e71618c342fb1a4c/CoreML.md)
 
 ##### iOS
 + [CloudKit使用](https://github.com/SwiftTang/CloudKitSample#readme)

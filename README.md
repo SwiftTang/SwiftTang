@@ -12,7 +12,7 @@
 
 
 ### 底蕴
-> AI
+> 用强化机器学习进行投资
 
 ##### iOS
 + [CloudKit使用](https://github.com/SwiftTang/CloudKitSample#readme)
